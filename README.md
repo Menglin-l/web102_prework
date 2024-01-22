@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/JFl3zxN.gif'/>
+<img src='https://github.com/Menglin-l/web102_prework/blob/main/web102_prework.gif'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
